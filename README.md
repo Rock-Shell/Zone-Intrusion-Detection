@@ -7,7 +7,7 @@
 5.	To remove unnecessary noise we will leave the changes that have area < threshold(900 in this case)
 6.	To detect the changes only in a certain area, draw a rectangle at the starting frame. Changes will be detected only in that region.
 
-
+![frame.png](https://github.com/Rock-Shell/Zone-Intrusion-Detection/blob/main/1.png)
 
 The red square is the region where the changes have to be detected, whereas green box indicate movement.
  
